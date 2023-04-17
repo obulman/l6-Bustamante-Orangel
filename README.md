@@ -1,2 +1,2 @@
 # l6-Bustamante-Orangel
-college exercises module 6
+college exercises module 6 - 7
